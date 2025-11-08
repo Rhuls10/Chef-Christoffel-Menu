@@ -84,4 +84,3 @@ All notable changes to **Chef Christoffel's Menu** are documented here.
 
 
 
-## Project Structure
